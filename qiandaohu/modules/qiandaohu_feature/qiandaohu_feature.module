@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Qiandaohu Feature feature.
+ */
+
+include_once 'qiandaohu_feature.features.inc';
