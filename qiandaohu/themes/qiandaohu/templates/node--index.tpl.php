@@ -94,10 +94,8 @@ global $language;
 <!--          立即报名-->
 <!--        </a></div>-->
     <?php else: ?>
-      <div class="tit">Join us in the race.
-        <br />Let's conquer all goals under the morning sun
-        <br/>and surpass our ultimate limits surrounded by the Thousand Island lake.</div>
-      <div class="sectit">November 27th, 2016. Zhejiang Province</div>
+      <div class="tit">The first race in the world salute freedom by running.</div>
+      <div class="sectit">November 27th, 2016. Chun’an County, Zhejiang Province</div>
 <!--      <div class="more">-->
 <!--        <a href="http://iranshao.com/register/reg_races/310?guest_register=true" class="blueBtn" target="_blank">-->
 <!--          Sign up-->
