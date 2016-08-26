@@ -1,4 +1,4 @@
-<footer class="globalFooter">
+<footer class="globalFooter hidden-xs hidden-sm">
   <div class="innerArea">
     <div class="inner clearfix">
       <div id="copyright">Host：Chinese Athletics Association, People’s Government of Chun’an County
@@ -27,6 +27,16 @@
           </li>
         </ul>
       </div>
+    </div>
+  </div>
+</footer>
+
+<footer class="container mb-footer visible-xs-block visible-sm-block">
+  <div class="row">
+    <div id="copyright" class="col-xs-12">
+      <p>Host：Chinese Athletics Association, People’s Government of Chun’an County</p>
+      <p>Organizer：Shanghai Skyview Sport Co., Ltd, Sports Bureau of Chun’an County</p>
+      <p class="text-center" style="padding: 10px 0;">沪ICP备14023412号-2 <br>© skyviewsport</p>
     </div>
   </div>
 </footer>

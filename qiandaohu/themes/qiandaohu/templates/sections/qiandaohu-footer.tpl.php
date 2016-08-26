@@ -1,4 +1,4 @@
-<footer class="globalFooter">
+<footer class="globalFooter hidden-xs hidden-sm">
   <div class="innerArea">
     <div class="inner clearfix">
       <div id="copyright">主办单位：中国田径协会、淳安县人民政府<br/>承办单位：淳安县体育局、上海穹景体育文化发展有限公司<br/>沪ICP备14023412号-2 © 上海穹景体育文化发展有限公司
@@ -25,6 +25,16 @@
           </li>
         </ul>
       </div>
+    </div>
+  </div>
+</footer>
+
+<footer class="container mb-footer visible-xs-block visible-sm-block">
+  <div class="row">
+    <div id="copyright" class="col-xs-12">
+      <p>主办单位：中国田径协会、淳安县人民政府</p>
+      <p>承办单位：淳安县体育局、上海穹景体育文化发展有限公司</p>
+      <p class="text-center" style="padding: 10px 0;">沪ICP备14023412号-2 <br>© 上海穹景体育文化发展有限公司</p>
     </div>
   </div>
 </footer>

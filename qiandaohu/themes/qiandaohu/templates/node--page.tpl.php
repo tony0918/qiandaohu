@@ -80,7 +80,7 @@
  * @ingroup themeable
  */
 ?>
-<div id="kv">
+<div id="kv" class="hidden-xs hidden-sm">
   <div class="kvImg">
     <img class="fullImg" src="<?php print url(path_to_theme() . '/images/kv_index_top.jpg'); ?>" alt="<?php print $title; ?>"/>
   </div>
