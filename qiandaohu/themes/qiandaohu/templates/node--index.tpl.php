@@ -88,14 +88,14 @@ global $language;
   <div class="kvTxt row">
     <?php if ($language->language == 'zh-hans'): ?>
       <div class="tit col-xs-12">全球第一个用跑步向“自由散漫”致敬的赛事</div>
-      <div class="sectit col-xs-12">2016.11.27 浙江省·淳安县</div>
+      <div class="sectit col-xs-12">2017.11.26 浙江省·淳安县</div>
 <!--      <div class="more">-->
 <!--        <a href="http://iranshao.com/register/reg_races/310?guest_register=true" class="blueBtn" target="_blank">-->
 <!--          立即报名-->
 <!--        </a></div>-->
     <?php else: ?>
       <div class="tit col-xs-12">The first race in the world salute freedom by running.</div>
-      <div class="sectit col-xs-12">November 27th, 2016. Chun’an County, Zhejiang Province</div>
+      <div class="sectit col-xs-12">November 26th, 2017. Chun’an County, Zhejiang Province</div>
 <!--      <div class="more">-->
 <!--        <a href="http://iranshao.com/register/reg_races/310?guest_register=true" class="blueBtn" target="_blank">-->
 <!--          Sign up-->
