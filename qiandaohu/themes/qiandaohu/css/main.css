@@ -290,7 +290,9 @@ ul {
 #wrapper .content .wrapper_content .matchContent #timer {
     color: #ffffff;
     background-color: #eb6c0f;
-    padding: 46px 115px;
+    /*padding: 46px 105px;*/
+    padding-top: 46px;
+    padding-bottom: 46px;
     text-align: center;
 }
 
@@ -302,6 +304,8 @@ ul {
 
 #wrapper .content .wrapper_content .matchContent #timer #t_d {
     border-bottom: 1px solid #f58a23;
+    width: 250px;
+    margin: auto;
 }
 
 #wrapper .content .wrapper_content .matchContent #timer #t_d span {
@@ -311,31 +315,47 @@ ul {
 }
 
 #wrapper .content .wrapper_content .matchContent #timer .time_area {
-    padding: 0 30px 0;
+    /*padding: 0 30px 0;*/
+    width: 250px;
+    margin: 25px auto;
+    /*margin-right: auto;*/
     font-size: 16px;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    /*margin-top: 25px;*/
+    /*margin-bottom: 25px;*/
     text-align: center;
 }
 
-#wrapper .content .wrapper_content .matchContent #timer .time_area .timelist {
+#wrapper .content .wrapper_content .matchContent #timer .time_area > div {
     float: left;
     font-size: 30px;
     font-weight: bold;
-    padding-right: 10px;
-    width: 33.3%;
+    /*padding-left: 5px;*/
+    line-height: 30px;
+    min-width: 38px;
 }
 
-#wrapper .content .wrapper_content .matchContent #timer .time_area .timelist.last {
-    background: none;
-}
+/*#wrapper .content .wrapper_content .matchContent #timer .time_area .timelist {*/
+    /*float: left;*/
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*padding-right: 10px;*/
+    /*width: 33.3%;*/
+/*}*/
 
+/*#wrapper .content .wrapper_content .matchContent #timer .time_area .timelist.last {*/
+    /*background: none;*/
+/*}*/
+#wrapper .content .wrapper_content .matchContent #timer .time_area .unit,
 #wrapper .content .wrapper_content .matchContent #timer .time_area .timelist .unit {
     font-size: 18px;
     font-weight: normal;
-    text-align: left;
+    /*text-align: left;*/
     color: #febb3b;
 }
+
+/*#wrapper .content .wrapper_content .matchContent #timer .time_area .timelist .unit.last {*/
+    /*padding-right: 0;*/
+/*}*/
 
 #wrapper .content .wrapper_content .matchContent #timer .timerL {
     color: #febb3b;

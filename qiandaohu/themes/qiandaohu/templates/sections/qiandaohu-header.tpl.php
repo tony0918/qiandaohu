@@ -18,7 +18,7 @@
           <div class="dropNav">
             <div class="arrow"></div>
             <ul>
-              <li><a href="<?php print url('about.html'); ?>">有关赛事</a></li>
+<!--              <li><a href="--><?php //print url('about.html'); ?><!--">有关赛事</a></li>-->
               <li><a href="<?php print url('rule.html'); ?>">竞赛规程</a></li>
               <li><a href="<?php print url('map.html'); ?>">赛事路线图</a></li>
               <li><a href="<?php print url('faq.html'); ?>">常见问题</a></li>
