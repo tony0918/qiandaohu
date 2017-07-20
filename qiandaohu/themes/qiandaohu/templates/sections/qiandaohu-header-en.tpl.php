@@ -1,4 +1,4 @@
-<header class="globalHeader hidden-sm hidden-xs">
+<header class="globalHeader hidden-sm hidden-xs en">
   <div class="logo">
     <a href=""><img class="fullImg" src="<?php print url(path_to_theme() . '/images/logo.png') ?>" alt=""/></a>
     <a href=""><img class="fullImg" src="<?php print url(path_to_theme() . '/images/logo2.png') ?>" alt=""/></a>
@@ -18,7 +18,7 @@
           <div class="dropNav">
             <div class="arrow"></div>
             <ul>
-              <li><a href="<?php print url('about.html'); ?>">About Race</a></li>
+<!--              <li><a href="--><?php //print url('about.html'); ?><!--">About Race</a></li>-->
               <li><a href="<?php print url('rule.html'); ?>">Competition Rules</a></li>
               <li><a href="<?php print url('map.html'); ?>">Route Map</a></li>
               <li><a href="<?php print url('faq.html'); ?>">FAQ</a></li>
@@ -63,9 +63,9 @@
           <div class="dropNav">
             <div class="arrow"></div>
             <ul>
-              <li>
-                <a href="<?php print url('event-sponsorship.html'); ?>">Events Sponsorship</a>
-              </li>
+<!--              <li>-->
+<!--                <a href="--><?php //print url('event-sponsorship.html'); ?><!--">Events Sponsorship</a>-->
+<!--              </li>-->
               <li><a href="<?php print url('sponsor.html'); ?>">Sponsor</a></li>
             </ul>
           </div>
@@ -145,7 +145,7 @@
             aria-expanded="false">SPONSOR
             <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php print url('event-sponsorship.html'); ?>">Events Sponsorship</a></li>
+<!--            <li><a href="--><?php //print url('event-sponsorship.html'); ?><!--">Events Sponsorship</a></li>-->
             <li><a href="<?php print url('sponsor.html'); ?>">Sponsor</a></li>
           </ul>
         </li>

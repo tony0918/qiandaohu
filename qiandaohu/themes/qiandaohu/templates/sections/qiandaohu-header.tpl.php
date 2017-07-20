@@ -13,12 +13,12 @@
         </li>
         <li>
           <a href="<?php print url('about.html'); ?>">赛事专题<span class="glyphicon glyphicon-menu-down"
-                                                                aria-hidden="true"></span></a>
+              aria-hidden="true"></span></a>
 
           <div class="dropNav">
             <div class="arrow"></div>
             <ul>
-<!--              <li><a href="--><?php //print url('about.html'); ?><!--">有关赛事</a></li>-->
+              <!--              <li><a href="--><?php //print url('about.html'); ?><!--">有关赛事</a></li>-->
               <li><a href="<?php print url('rule.html'); ?>">竞赛规程</a></li>
               <li><a href="<?php print url('map.html'); ?>">赛事路线图</a></li>
               <li><a href="<?php print url('faq.html'); ?>">常见问题</a></li>
@@ -27,7 +27,7 @@
         </li>
         <li>
           <a href="<?php print url('registration-guidelines.html'); ?>">赛事报名<span class="glyphicon glyphicon-menu-down"
-                                                                                  aria-hidden="true"></span></a>
+              aria-hidden="true"></span></a>
 
           <div class="dropNav">
             <div class="arrow"></div>
@@ -45,7 +45,7 @@
         </li>
         <li>
           <a href="<?php print url('result.html'); ?>">成绩与照片<span class="glyphicon glyphicon-menu-down"
-                                                                  aria-hidden="true"></span></a>
+              aria-hidden="true"></span></a>
 
           <div class="dropNav">
             <div class="arrow"></div>
@@ -57,14 +57,14 @@
         </li>
         <li>
           <a href="<?php print url('event-sponsorship.html'); ?>">赛事赞助<span class="glyphicon glyphicon-menu-down"
-                                                                            aria-hidden="true"></span></a>
+              aria-hidden="true"></span></a>
 
           <div class="dropNav">
             <div class="arrow"></div>
             <ul>
-              <li>
-                <a href="<?php print url('event-sponsorship.html'); ?>">赛事合作</a>
-              </li>
+<!--              <li>-->
+<!--                <a href="--><?php //print url('event-sponsorship.html'); ?><!--">赛事合作</a>-->
+<!--              </li>-->
               <li><a href="<?php print url('sponsor.html'); ?>">赞助商</a></li>
             </ul>
           </div>
@@ -93,7 +93,7 @@
     </div>
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-              data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -108,10 +108,10 @@
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-             aria-expanded="false">赛事专题
+            aria-expanded="false">赛事专题
             <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php print url('about.html'); ?>">有关赛事</a></li>
+<!--            <li><a href="--><?php //print url('about.html'); ?><!--">有关赛事</a></li>-->
             <li><a href="<?php print url('rule.html'); ?>">竞赛规程</a></li>
             <li><a href="<?php print url('map.html'); ?>">赛事路线图</a></li>
             <li><a href="<?php print url('faq.html'); ?>">常见问题</a></li>
@@ -119,7 +119,7 @@
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-             aria-expanded="false">赛事报名
+            aria-expanded="false">赛事报名
             <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="<?php print url('registration-guidelines.html'); ?>">报名须知</a></li>
@@ -129,7 +129,7 @@
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-             aria-expanded="false">成绩与照片
+            aria-expanded="false">成绩与照片
             <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="<?php print url('result.html'); ?>">成绩查询</a></li>
@@ -138,16 +138,16 @@
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-             aria-expanded="false">赛事赞助
+            aria-expanded="false">赛事赞助
             <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php print url('event-sponsorship.html'); ?>">赛事合作</a></li>
+<!--            <li><a href="--><?php //print url('event-sponsorship.html'); ?><!--">赛事合作</a></li>-->
             <li><a href="<?php print url('sponsor.html'); ?>">赞助商</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-             aria-expanded="false">语言/Language
+            aria-expanded="false">语言/Language
             <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="http://en.qiandaohu.huluanpao.com">English</a></li>
